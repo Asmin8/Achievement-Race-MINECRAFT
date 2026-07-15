@@ -1,4 +1,4 @@
-# 🏆 Task Master — Minecraft Datapack
+# 🏆 Achievement Master — Minecraft Datapack
 
 **Achievement Race** is an action-packed, fully automated challenge datapack for Minecraft. Compete with your friends or play solo to complete a series of random, dynamically tiered challenges! Race against the clock, survive dangerous situations, hunt down items, and prove that you are the ultimate Achievement Race.
 
